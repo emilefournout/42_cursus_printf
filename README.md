@@ -12,4 +12,5 @@ My own printf, with spcdiuxX% conversion
     make
     
 2/ You can test this with #include "ft_printf.h" && add -L. -lftprintf to your compiler
+    
     gcc your_program.c -L. -lftprintf
